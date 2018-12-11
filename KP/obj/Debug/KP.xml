@@ -1,0 +1,448 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+KP
+</name>
+</assembly>
+<members>
+<member name="P:KP.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:KP.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:KP.My.Resources.Resources.about">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:KP.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:KP.KPDataSet.T_CategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KP.KPDataSet.T_DetailJualDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KP.KPDataSet.T_DetailReturDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KP.KPDataSet.T_InternalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KP.KPDataSet.T_MenuDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KP.KPDataSet.T_ReturDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KP.KPDataSet.T_RoleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KP.KPDataSet.T_RoleMenuDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KP.KPDataSet.T_StockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KP.KPDataSet.T_TemporerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KP.KPDataSet.T_TransDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KP.KPDataSet.T_UserDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KP.KPDataSet.usp_selectCategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KP.KPDataSet.usp_selectCategoryListDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KP.KPDataSet.usp_SelectCategoryTop1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KP.KPDataSet.usp_selectDetailListDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KP.KPDataSet.usp_SelectIntListDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KP.KPDataSet.usp_SelectIntTop1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KP.KPDataSet.usp_SelectRoleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KP.KPDataSet.usp_selectStockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KP.KPDataSet.usp_SelectStockTop1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KP.KPDataSet.usp_SelectTransListDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KP.KPDataSet.usp_SelectTransTop1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KP.KPDataSet.usp_SelectUserListDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KP.KPDataSet.T_CategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KP.KPDataSet.T_DetailJualRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KP.KPDataSet.T_DetailReturRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KP.KPDataSet.T_InternalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KP.KPDataSet.T_MenuRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KP.KPDataSet.T_ReturRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KP.KPDataSet.T_RoleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KP.KPDataSet.T_RoleMenuRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KP.KPDataSet.T_StockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KP.KPDataSet.T_TemporerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KP.KPDataSet.T_TransRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KP.KPDataSet.T_UserRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KP.KPDataSet.usp_selectCategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KP.KPDataSet.usp_selectCategoryListRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KP.KPDataSet.usp_SelectCategoryTop1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KP.KPDataSet.usp_selectDetailListRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KP.KPDataSet.usp_SelectIntListRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KP.KPDataSet.usp_SelectIntTop1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KP.KPDataSet.usp_SelectRoleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KP.KPDataSet.usp_selectStockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KP.KPDataSet.usp_SelectStockTop1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KP.KPDataSet.usp_SelectTransListRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KP.KPDataSet.usp_SelectTransTop1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KP.KPDataSet.usp_SelectUserListRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KP.KPDataSet.T_CategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KP.KPDataSet.T_DetailJualRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KP.KPDataSet.T_DetailReturRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KP.KPDataSet.T_InternalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KP.KPDataSet.T_MenuRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KP.KPDataSet.T_ReturRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KP.KPDataSet.T_RoleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KP.KPDataSet.T_RoleMenuRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KP.KPDataSet.T_StockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KP.KPDataSet.T_TemporerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KP.KPDataSet.T_TransRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KP.KPDataSet.T_UserRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KP.KPDataSet.usp_selectCategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KP.KPDataSet.usp_selectCategoryListRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KP.KPDataSet.usp_SelectCategoryTop1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KP.KPDataSet.usp_selectDetailListRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KP.KPDataSet.usp_SelectIntListRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KP.KPDataSet.usp_SelectIntTop1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KP.KPDataSet.usp_SelectRoleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KP.KPDataSet.usp_selectStockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KP.KPDataSet.usp_SelectStockTop1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KP.KPDataSet.usp_SelectTransListRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KP.KPDataSet.usp_SelectTransTop1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KP.KPDataSet.usp_SelectUserListRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KP.KPDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.T_CategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.T_DetailJualTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.T_DetailReturTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.T_InternalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.T_MenuTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.T_ReturTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.T_RoleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.T_RoleMenuTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.T_StockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.T_TemporerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.T_TransTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.T_UserTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.usp_selectCategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.usp_selectCategoryListTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.usp_SelectCategoryTop1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.usp_selectDetailListTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.usp_SelectIntListTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.usp_SelectIntTop1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.usp_SelectRoleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.usp_selectStockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.usp_SelectStockTop1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.usp_SelectTransListTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.usp_SelectTransTop1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.usp_SelectUserListTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:KP.KPDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(KP.KPDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:KP.KPDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(KP.KPDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:KP.KPDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(KP.KPDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:KP.KPDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:KP.KPDataSetTableAdapters.TableAdapterManager.UpdateAll(KP.KPDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:KP.KPDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

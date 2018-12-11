@@ -1,0 +1,15 @@
+D:\fian\KP\KP\bin\Debug\KP.exe.config
+D:\fian\KP\KP\bin\Debug\KP.exe
+D:\fian\KP\KP\bin\Debug\KP.pdb
+D:\fian\KP\KP\bin\Debug\KP.xml
+D:\fian\KP\KP\obj\x86\Debug\KP.F_Category.resources
+D:\fian\KP\KP\obj\x86\Debug\KP.H_Category.resources
+D:\fian\KP\KP\obj\x86\Debug\KP.Resources.resources
+D:\fian\KP\KP\obj\x86\Debug\KP.vbproj.GenerateResource.Cache
+D:\fian\KP\KP\obj\x86\Debug\KP.exe
+D:\fian\KP\KP\obj\x86\Debug\KP.xml
+D:\fian\KP\KP\obj\x86\Debug\KP.pdb
+D:\fian\KP\KP\obj\x86\Debug\KP.F_Main.resources
+D:\fian\KP\KP\obj\x86\Debug\KP.F_Stock.resources
+D:\fian\KP\KP\obj\x86\Debug\KP.H_Stock.resources
+D:\fian\KP\KP\obj\x86\Debug\KP.F_Transaction.resources

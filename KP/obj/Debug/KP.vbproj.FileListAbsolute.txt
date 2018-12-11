@@ -1,0 +1,84 @@
+D:\fian\KP\KP\bin\Debug\KP.exe.config
+D:\fian\KP\KP\bin\Debug\KP.exe
+D:\fian\KP\KP\bin\Debug\KP.pdb
+D:\fian\KP\KP\bin\Debug\KP.xml
+D:\fian\KP\KP\obj\Debug\KP.F_Category.resources
+D:\fian\KP\KP\obj\Debug\KP.F_Stock.resources
+D:\fian\KP\KP\obj\Debug\KP.F_Main.resources
+D:\fian\KP\KP\obj\Debug\KP.H_Category.resources
+D:\fian\KP\KP\obj\Debug\KP.H_Stock.resources
+D:\fian\KP\KP\obj\Debug\KP.Resources.resources
+D:\fian\KP\KP\obj\Debug\KP.vbproj.GenerateResource.Cache
+D:\fian\KP\KP\obj\Debug\KP.exe
+D:\fian\KP\KP\obj\Debug\KP.xml
+D:\fian\KP\KP\obj\Debug\KP.pdb
+D:\fian\KP\KP\obj\Debug\KP.H_Trans.resources
+D:\fian\KP\KP\obj\Debug\KP.F_Trans.resources
+D:\fian\KP\KP\obj\Debug\KP.F_TransRetur.resources
+D:\fian\KP\KP\obj\Debug\KP.F_Login.resources
+D:\fian\KP\KP\obj\Debug\KP.StartUp.resources
+D:\fian\KP\KP\obj\Debug\KP.F_About.resources
+D:\fian\KP\KP\obj\Debug\KP.F_Change.resources
+D:\fian\KP\KP\obj\Debug\KP.F_FormAccess.resources
+D:\fian\KP\KP\obj\Debug\KP.F_User.resources
+D:\fian\KP\KP\obj\Debug\KP.F_UserBox.resources
+D:\fian\KP\KP\obj\Debug\KP.H_User.resources
+D:\fian\KP\KP\obj\Debug\KP.vbprojResolveAssemblyReference.cache
+D:\fian\KP\KP\obj\Debug\KP.R_DataReport.resources
+D:\fian\KP\KP\obj\Debug\KP.R_ReturReport.resources
+D:\fian\KP\KP\obj\Debug\KP.R_TransReport.resources
+D:\fian\KP\KP\bin\Debug\KP.exe.manifest
+D:\fian\KP\KP\bin\Debug\KP.application
+D:\fian\KP\KP\obj\Debug\KP.exe.manifest
+D:\fian\KP\KP\obj\Debug\KP.application
+D:\fian\KP2\KP\KP\bin\Debug\KP.exe.config
+D:\fian\KP2\KP\KP\obj\Debug\KP.exe
+D:\fian\KP2\KP\KP\obj\Debug\KP.xml
+D:\fian\KP2\KP\KP\obj\Debug\KP.pdb
+D:\fian\KP2\KP\KP\bin\Debug\KP.exe.manifest
+D:\fian\KP2\KP\KP\bin\Debug\KP.application
+D:\fian\KP2\KP\KP\bin\Debug\KP.exe
+D:\fian\KP2\KP\KP\bin\Debug\KP.pdb
+D:\fian\KP2\KP\KP\bin\Debug\KP.xml
+D:\fian\KP2\KP\KP\obj\Debug\KP.vbprojResolveAssemblyReference.cache
+D:\fian\KP2\KP\KP\obj\Debug\KP.F_About.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.F_Category.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.F_Change.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.F_FormAccess.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.F_Login.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.F_Main.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.F_Trans.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.F_Stock.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.F_User.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.F_UserBox.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.H_Category.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.H_Trans.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.H_Stock.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.H_User.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.Resources.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.F_TransRetur.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.StartUp.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.vbproj.GenerateResource.Cache
+D:\fian\KP2\KP\KP\obj\Debug\KP.exe.manifest
+D:\fian\KP2\KP\KP\obj\Debug\KP.application
+D:\fian\KP2\KP\KP\obj\Debug\KP.F_StockBox.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.F_Internal.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.H_Internal.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.R_ReturTrans.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.R_IntReport.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.R_KasirReport.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.R_StockReport.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.R_TransReport.resources
+D:\fian\KP2\KP\KP\obj\Debug\KP.H_DTrans.resources
+D:\fian\kuliah\kerja praktek\KP fian\KP2\KP\KP\bin\Debug\KP.exe.config
+D:\fian\kuliah\kerja praktek\KP fian\KP2\KP\KP\obj\Debug\KP.exe
+D:\fian\kuliah\kerja praktek\KP fian\KP2\KP\KP\obj\Debug\KP.xml
+D:\fian\kuliah\kerja praktek\KP fian\KP2\KP\KP\obj\Debug\KP.pdb
+D:\fian\kuliah\kerja praktek\KP fian kasir\KP2\KP\KP\bin\Debug\KP.exe.config
+D:\fian\kuliah\kerja praktek\KP fian kasir\KP2\KP\KP\obj\Debug\KP.exe
+D:\fian\kuliah\kerja praktek\KP fian kasir\KP2\KP\KP\obj\Debug\KP.xml
+D:\fian\kuliah\kerja praktek\KP fian kasir\KP2\KP\KP\obj\Debug\KP.pdb
+D:\kuliah\kerja praktek\KP fian kasir\KP2\KP\KP\bin\Debug\KP.exe.config
+D:\kuliah\kerja praktek\KP fian kasir\KP2\KP\KP\obj\Debug\KP.exe
+D:\kuliah\kerja praktek\KP fian kasir\KP2\KP\KP\obj\Debug\KP.xml
+D:\kuliah\kerja praktek\KP fian kasir\KP2\KP\KP\obj\Debug\KP.pdb
